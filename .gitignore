@@ -44,8 +44,8 @@ env/
 ehthumbs.db
 Thumbs.db
 
-# Generated files
-emg_report_live.html
+# Generated files (uncomment to ignore)
+# emg_report_live.html
 
 # Logs
 *.log
