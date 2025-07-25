@@ -64,8 +64,7 @@ pip install pandas numpy
 python emg_web_report.py
 ```
 
-### 訪問系統
-打開瀏覽器訪問: http://localhost:8000/emg_report_live.html
+
 
 ## 📈 功能特點
 
