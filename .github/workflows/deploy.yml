@@ -38,6 +38,11 @@ jobs:
         print('✅ EMG report generated successfully')
         "
 
+    - name: Copy EMG report as index.html
+      run: |
+        cp emg_report_live.html index.html
+        echo "✅ EMG report copied as index.html"
+
     - name: Setup Pages
       uses: actions/configure-pages@v4
 
